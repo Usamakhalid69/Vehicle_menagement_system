@@ -1,0 +1,13 @@
+type_car,name,make,model,variant,mileage,colour,engine_type,cc,rating,registration,registration_city,chassis_no,price,selling_date,purchasing_date,purchasing_price,selling_price,profit_loss
+jeep,prado,toyota,2012,tz,38000,white,diesel,2700cc,87%,aax-512,islamabad,,8900000,09-08-2023,25-12-2022,8200000,8700000,500000.0
+jeep,cruiser,toyota,2013,tz,38000,white,diesel,2700cc,88%,aax-513,islamabad,,8900000,09-08-2023,25-12-2022,8200000,8700000,500000.0
+jeep,surf,toyota,2014,tz,38000,white,diesel,2700cc,89%,aax-514,islamabad,,8900000,09-08-2023,25-12-2022,8200000,8700000,500000.0
+jeep,prado,toyota,2016,tz,38000,white,diesel,2700cc,84%,aax-516,islamabad,,8900000,09-08-2023,25-12-2022,8200000,8700000,500000.0
+jeep,sportage,kia,2021,fwd,9000,white,petrol,2000cc,98%,awd-138,islamabad,,6000000,02-09-2022,03-08-2022,5600000,5800000,200000.0
+pickup,revo,toyota,2019,v,45000,black,diesel,3000cc,87%,leb-12-2023,lahore,,6600000,08-10-2022,03-09-2022,5900000,6300000,400000.0
+pickup,revo,toyota,2020,v,45000,black,diesel,3000cc,87%,leb-13-2022,lahore,,6700000,08-10-2022,03-09-2022,5500000,6300000,800000.0
+car,civic,honda,2018,basic,55000,white,petrol,1800,94%,aax-195,islamabad,,3200000,28-12-2023,25-12-2022,3100000,3150000,50000.0
+car,civic,honda,2019,basic,58000,white,petrol,1800,92%,aax-194,islamabad,,3250000,28-12-2023,25-12-2022,3150000,3250000,50000.0
+car,civic,honda,2020,basic,59000,white,petrol,1800,99%,aax-193,islamabad,,3280000,28-12-2023,25-12-2022,3100000,3200000,50000.0
+car,city,honda,2022,1.2cvt,9000,white,1200,1200cc,99%,islamabad,islamabad,,4200000,30-01-2022,30-12-2021,3800000,3900000,100000.0
+
